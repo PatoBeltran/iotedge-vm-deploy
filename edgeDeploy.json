@@ -16,6 +16,7 @@
     },
     "deviceConnectionString": {
       "type": "string",
+      "defaultValue": "",
       "metadata": {
         "description": "IoT Edge Device Connection String"
       }
